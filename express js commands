@@ -1,7 +1,7 @@
 npm init
 
 npm install express --save
-
+"test": "node index.js"
 npm update  /// to get update current deveice with current project 
 
 npm install express

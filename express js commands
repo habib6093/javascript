@@ -6,3 +6,4 @@ npm install express
 
 node index.js //to start server
 
+npm install ejs --save

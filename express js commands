@@ -12,3 +12,5 @@ npm install ejs --save
 npm i mysql --save
 
 npm i express -session --save
+
+npm i bootstrap3

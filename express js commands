@@ -17,3 +17,8 @@ npm i bootstrap3
 
 
 npm i express ejs body-parser async-validator   /// validator
+
+
+npm i -g nodemon 
+
+nodemon filename
